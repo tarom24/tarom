@@ -7,7 +7,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 // Setting up the letters
-var letters = 'luv u luv u luv u luv u';
+var letters = 'maaf sayangg ❤ maaf sayangg ❤';
 letters = letters.split('');
 
 // Setting up the columns
