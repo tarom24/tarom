@@ -23,7 +23,7 @@ var S = {
     if (i !== -1) {
       S.UI.simulate(decodeURI(action).substring(i + 3));
     } else {
-      S.UI.simulate("|#countdown 3||aku|mau|minta maaf|sayanggkuu||#rectangle|");
+      S.UI.simulate("|#countdown 3||aku|mau|minta maaf|sayanggkuu|maafin|akuu|yaaa|ituuu|benerann|ga sengajaa|hihh|beneran|template|kentut|maafinnn|akuuuu|yaaaa|sayanggkuu|");
     }
 
     // Add a flag to track animation completion
